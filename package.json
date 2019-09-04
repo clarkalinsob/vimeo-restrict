@@ -1,0 +1,27 @@
+{
+  "name": "vimeo-restrict",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkalinsob/vimeo-restrict.git"
+  },
+  "author": "Clark Egbert Alinsob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkalinsob/vimeo-restrict/issues"
+  },
+  "homepage": "https://github.com/clarkalinsob/vimeo-restrict#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
